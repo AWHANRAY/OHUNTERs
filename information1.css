@@ -1,0 +1,146 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+}
+
+.nav-link {
+    font-size: 16px;
+    color: #fff !important;
+    margin: 2px;
+}
+
+.navbar-nav {
+    text-align: right;
+    padding-left: 130px;
+}
+
+.navbar-brand {
+    padding-right: 50%;
+}
+.collapse {
+    padding-left: 28%;
+}
+#bc1{
+    background-color: #d8d8e4;
+    padding: 50px 0;
+}
+.box1{
+    display: flex;
+    background-color: #fff;
+    padding: 2%;
+    border-radius: 20px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+.box2{
+    margin-top: 36px;
+    margin-right: 85px;
+}
+.img2{
+    display: flex;
+    width: 27%;
+    margin-left: 85px;
+}
+.under1{
+    border-radius: 20px;
+    margin-left: 12%;
+    margin-right: 12%; 
+    margin-top: 60px;
+    background-color: #fff;
+}
+.under2{
+    display: flex;
+    background-color: rgb(29, 3, 88);
+    padding: 3%;
+    
+}
+.salary{
+    width: 20%;
+}
+.form-group{
+    margin-right: -50%;
+    margin-top: 20px;
+    color: #fff;
+}
+.salary{
+    width: 23%;
+    margin-left: 152%;
+    padding-left: 14px;
+}
+.br1{padding-top: 20px; 
+    display: flex;
+    padding-bottom: 23px;
+    
+}
+.br2{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.br1 p{
+    padding-left: 10px;
+}
+.under3{
+    padding: 2%;
+}
+.ar2{
+    display: flex;
+}
+.mb-3  b{
+    padding-top: 10px;
+}
+.under8{
+    background-color: #fff;
+    padding: 2%;
+    border-radius: 20px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 50px;
+}
+.mb-2 p{
+    color: #a4a4a4;
+}
+.form-check{
+    padding-right: 10px;
+}
+.check-item3{
+    display: flex;
+}
+.check-item4{
+    display: flex;
+}
+
+.under10 {
+    background-color: #fff;
+    padding: 3%;
+    border-radius: 20px;
+    margin: 12%;
+    margin-top: 40px;
+    margin-bottom: -8%;
+}
+.mb-3 p{
+    color: #a4a4a4;
+}
+
+
+.under11 {
+    background-color: #fff;
+    padding: 4%;
+    border-radius: 20px;
+    margin: 12%;
+}
+
+#btn1 {
+    margin-right: 39%;
+    padding: 12px;
+
+}
+
+#btn2 {
+    margin-left: 39%;
+    padding: 12px;
+}
